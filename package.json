@@ -1,0 +1,14 @@
+{
+  "name": "node-events-practices",
+  "version": "1.0.0",
+  "description": "node events practices",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ulises Vargas",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
